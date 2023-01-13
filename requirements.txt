@@ -1,0 +1,11 @@
+tensorflow
+sklearn
+skopt
+nltk
+xgboost
+keras
+matplotlib
+pandas
+numpy
+joblib
+gensim
